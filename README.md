@@ -1,4 +1,4 @@
-1 - Home Page
+1 - Giriş Ekranı
 2 - Movie type add page and 
 3 - Movie add page
 4 - Session add page
